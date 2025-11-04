@@ -32,7 +32,7 @@ Use tools like DeepL Write or LanguageTool to check grammar.
 
 Rewrite earlier texts using new tenses or vocabulary.
 
-🪶 Purpose
+Purpose
 
 This repository is your personal French writing lab — for learning, journaling, and creative practice.
 
