@@ -1,64 +1,39 @@
-# ✍️ French Writing Practice
+✍️ French Writing Practice
 
-A structured collection of writing prompts to improve your French — from simple introductions to advanced essays.
+A simple collection of writing prompts and exercises to improve your French.
 
-## 🗂 Structure
-Each file in this repository contains:
-- 🎯 **Goal** — what you will practice  
-- ✍️ **Prompts** — writing exercises  
-- 🧠 **Grammar focus** — tenses or constructions to use  
-- 💬 **Example text** — short model to inspire you  
+🗂 Structure
 
-You can complete them in any order and at your own pace.
+This repository includes the following folders:
 
----
+/notes — your personal notes and grammar tips
 
-## 🧭 Levels Overview
+/vocabulary — new words and useful phrases
 
-| Level | Theme | Focus |
-|--------|--------|--------|
-| Beginner | Présentation personnelle | Introduce yourself in French |
-| Beginner | Ma journée | Describe your daily routine |
-| Intermediate | Mon souvenir préféré | Combine *passé composé* and *imparfait* |
-| Intermediate | Voyage idéal | Use *futur simple* to imagine a trip |
-| Intermediate | Les réseaux sociaux | Express your opinion |
-| Advanced | Lettre formelle | Write a professional or administrative letter |
-| Advanced | Récit imaginaire | Tell a short story with emotions |
-| Advanced | L’importance du travail | Write an argumentative essay |
-| Creative | Sujet libre | Choose your own topic |
-| Review | Réflexion | Reflect on your progress and goals |
+/topics — writing prompts and example texts
 
----
+/exercises — grammar and short writing tasks
 
-## 💡 How to Use
-1. Pick any topic file (e.g. `travel.md` or `story.md`).  
-2. Read the goal and grammar hints.  
-3. Write your response directly in the same file under the prompt.  
-4. (Optional) Commit your text to track your progress over time.
+🎯 How to Use
 
----
+Choose any file in the topics or exercises folder.
 
-## 📘 Tips for Learners
-- Keep your own notes and vocabulary in a `/notes/` folder.  
-- Use [DeepL Write](https://www.deepl.com/write) or [LanguageTool](https://languagetool.org/fr) to check grammar.  
-- Revisit old tasks every few months to see your progress.  
-- Try rewriting earlier texts in new tenses or styles.
+Read the short goal and example.
 
----
+Write your answer in French below the prompt.
 
-## 🪶 Inspiration
-This repository is designed as a **personal writing lab**.  
-You can use it for:
-- Language study and journaling  
-- Practice before DELF/DALF exams  
-- Daily writing challenges  
-- Creative storytelling in French  
+(Optional) Commit your version to track your progress.
+
+💡 Tips
+
+Review old tasks every few weeks to see your improvement.
+
+Use tools like DeepL Write or LanguageTool to check grammar.
+
+Rewrite earlier texts using new tenses or vocabulary.
+
+🪶 Purpose
+
+This repository is your personal French writing lab — for learning, journaling, and creative practice.
 
 Bon courage et bonne écriture ! 🇫🇷
----
-
-## 🧩 How to Use
-1. Open the week file (e.g. `week03-travel.md`).
-2. Read the instructions and examples.
-3. Write your answer in French below the prompt.
-4. (Optional) Commit your version to track progress.
