@@ -32,16 +32,21 @@ Le stylo
 Translation: The pen
 
 Courir
+
 Translation: To run
 
 Marcher
+
 Translation: To walk
 
 Sauter
+
 Translation: To jump
 
 Vite
+
 Translation: Fast / quickly
 
 Lentement
+
 Translation: Slowly
