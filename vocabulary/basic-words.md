@@ -52,7 +52,9 @@ Lentement
 Translation: Slowly
 
 Nager
+
 Translation: To swim
 
 Jouer
+
 Translation: To play
