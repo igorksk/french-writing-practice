@@ -1,3 +1,4 @@
+
 Le lit - The bed
 Le sofa - The sofa
 Le papier - The paper
@@ -11,7 +12,6 @@ Le livre - The book
 Le miroir - The mirror
 Le stylo - The pen
 Courir - To run
-
 Marcher - To walk
 Sauter - To jump
 Vite - Fast / quickly
