@@ -1,60 +1,20 @@
-Eau
+Le lit - The bed
+Le sofa - The sofa
+Le papier - The paper
+La porte - The door
+Eau - Water
+Bière - Beer
+La table - The table
+La chaise - The chair
+Le sac - The bag
+Le livre - The book
+Le miroir - The mirror
+Le stylo - The pen
+Courir - To run
 
-Translation: Water.
-Pronunciation: "oh".
-
-Bière
-
-Translation: Beer.
-
-La table
-
-Translation: The table
-
-La chaise
-
-Translation: The chair
-
-Le sac
-
-Translation: The bag
-
-Le livre
-
-Translation: The book
-
-Le miroir
-
-Translation: The mirror
-
-Le stylo
-
-Translation: The pen
-
-Courir
-
-Translation: To run
-
-Marcher
-
-Translation: To walk
-
-Sauter
-
-Translation: To jump
-
-Vite
-
-Translation: Fast / quickly
-
-Lentement
-
-Translation: Slowly
-
-Nager
-
-Translation: To swim
-
-Jouer
-
-Translation: To play
+Marcher - To walk
+Sauter - To jump
+Vite - Fast / quickly
+Lentement - Slowly
+Nager - To swim
+Jouer - To play
