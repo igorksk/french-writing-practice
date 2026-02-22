@@ -73,3 +73,19 @@ L’eau — water
 Le café — coffee
 
 Le thé — tea
+
+🍽️ Utensils & Tableware
+
+Les couverts — cutlery / silverware
+
+Une fourchette — a fork
+
+Un couteau — a knife
+
+Une cuillère — a spoon
+
+Le bol — bowl
+
+🗣️ Useful Phrases
+
+Besoin de — to need (to)
